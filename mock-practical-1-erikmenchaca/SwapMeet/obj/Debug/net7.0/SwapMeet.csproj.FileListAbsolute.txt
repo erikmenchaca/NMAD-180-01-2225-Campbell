@@ -1,0 +1,15 @@
+C:\Users\em9927\Desktop\03-Exams\mock-practical-1-erikmenchaca\SwapMeet\bin\Debug\net7.0\SwapMeet.exe
+C:\Users\em9927\Desktop\03-Exams\mock-practical-1-erikmenchaca\SwapMeet\bin\Debug\net7.0\SwapMeet.deps.json
+C:\Users\em9927\Desktop\03-Exams\mock-practical-1-erikmenchaca\SwapMeet\bin\Debug\net7.0\SwapMeet.runtimeconfig.json
+C:\Users\em9927\Desktop\03-Exams\mock-practical-1-erikmenchaca\SwapMeet\bin\Debug\net7.0\SwapMeet.dll
+C:\Users\em9927\Desktop\03-Exams\mock-practical-1-erikmenchaca\SwapMeet\bin\Debug\net7.0\SwapMeet.pdb
+C:\Users\em9927\Desktop\03-Exams\mock-practical-1-erikmenchaca\SwapMeet\obj\Debug\net7.0\SwapMeet.csproj.AssemblyReference.cache
+C:\Users\em9927\Desktop\03-Exams\mock-practical-1-erikmenchaca\SwapMeet\obj\Debug\net7.0\SwapMeet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\em9927\Desktop\03-Exams\mock-practical-1-erikmenchaca\SwapMeet\obj\Debug\net7.0\SwapMeet.AssemblyInfoInputs.cache
+C:\Users\em9927\Desktop\03-Exams\mock-practical-1-erikmenchaca\SwapMeet\obj\Debug\net7.0\SwapMeet.AssemblyInfo.cs
+C:\Users\em9927\Desktop\03-Exams\mock-practical-1-erikmenchaca\SwapMeet\obj\Debug\net7.0\SwapMeet.csproj.CoreCompileInputs.cache
+C:\Users\em9927\Desktop\03-Exams\mock-practical-1-erikmenchaca\SwapMeet\obj\Debug\net7.0\SwapMeet.dll
+C:\Users\em9927\Desktop\03-Exams\mock-practical-1-erikmenchaca\SwapMeet\obj\Debug\net7.0\refint\SwapMeet.dll
+C:\Users\em9927\Desktop\03-Exams\mock-practical-1-erikmenchaca\SwapMeet\obj\Debug\net7.0\SwapMeet.pdb
+C:\Users\em9927\Desktop\03-Exams\mock-practical-1-erikmenchaca\SwapMeet\obj\Debug\net7.0\SwapMeet.genruntimeconfig.cache
+C:\Users\em9927\Desktop\03-Exams\mock-practical-1-erikmenchaca\SwapMeet\obj\Debug\net7.0\ref\SwapMeet.dll
