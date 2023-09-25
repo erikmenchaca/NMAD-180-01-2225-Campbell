@@ -1,0 +1,30 @@
+/Users/erikmenchaca/My Drive (em9927@g.rit.edu)/01-RIT/Year-03/Spring-2022-23-2225/NMAD-180-K.Campbell/04-Projects/project-02-erikmenchaca-1/PokeModV2.0/bin/Debug/net7.0/PokeModV2.0
+/Users/erikmenchaca/My Drive (em9927@g.rit.edu)/01-RIT/Year-03/Spring-2022-23-2225/NMAD-180-K.Campbell/04-Projects/project-02-erikmenchaca-1/PokeModV2.0/bin/Debug/net7.0/PokeModV2.0.deps.json
+/Users/erikmenchaca/My Drive (em9927@g.rit.edu)/01-RIT/Year-03/Spring-2022-23-2225/NMAD-180-K.Campbell/04-Projects/project-02-erikmenchaca-1/PokeModV2.0/bin/Debug/net7.0/PokeModV2.0.runtimeconfig.json
+/Users/erikmenchaca/My Drive (em9927@g.rit.edu)/01-RIT/Year-03/Spring-2022-23-2225/NMAD-180-K.Campbell/04-Projects/project-02-erikmenchaca-1/PokeModV2.0/bin/Debug/net7.0/PokeModV2.0.dll
+/Users/erikmenchaca/My Drive (em9927@g.rit.edu)/01-RIT/Year-03/Spring-2022-23-2225/NMAD-180-K.Campbell/04-Projects/project-02-erikmenchaca-1/PokeModV2.0/bin/Debug/net7.0/PokeModV2.0.pdb
+/Users/erikmenchaca/My Drive (em9927@g.rit.edu)/01-RIT/Year-03/Spring-2022-23-2225/NMAD-180-K.Campbell/04-Projects/project-02-erikmenchaca-1/PokeModV2.0/obj/Debug/net7.0/PokeModV2.0.csproj.AssemblyReference.cache
+/Users/erikmenchaca/My Drive (em9927@g.rit.edu)/01-RIT/Year-03/Spring-2022-23-2225/NMAD-180-K.Campbell/04-Projects/project-02-erikmenchaca-1/PokeModV2.0/obj/Debug/net7.0/PokeModV2.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erikmenchaca/My Drive (em9927@g.rit.edu)/01-RIT/Year-03/Spring-2022-23-2225/NMAD-180-K.Campbell/04-Projects/project-02-erikmenchaca-1/PokeModV2.0/obj/Debug/net7.0/PokeModV2.0.AssemblyInfoInputs.cache
+/Users/erikmenchaca/My Drive (em9927@g.rit.edu)/01-RIT/Year-03/Spring-2022-23-2225/NMAD-180-K.Campbell/04-Projects/project-02-erikmenchaca-1/PokeModV2.0/obj/Debug/net7.0/PokeModV2.0.AssemblyInfo.cs
+/Users/erikmenchaca/My Drive (em9927@g.rit.edu)/01-RIT/Year-03/Spring-2022-23-2225/NMAD-180-K.Campbell/04-Projects/project-02-erikmenchaca-1/PokeModV2.0/obj/Debug/net7.0/PokeModV2.0.csproj.CoreCompileInputs.cache
+/Users/erikmenchaca/My Drive (em9927@g.rit.edu)/01-RIT/Year-03/Spring-2022-23-2225/NMAD-180-K.Campbell/04-Projects/project-02-erikmenchaca-1/PokeModV2.0/obj/Debug/net7.0/PokeModV2.0.dll
+/Users/erikmenchaca/My Drive (em9927@g.rit.edu)/01-RIT/Year-03/Spring-2022-23-2225/NMAD-180-K.Campbell/04-Projects/project-02-erikmenchaca-1/PokeModV2.0/obj/Debug/net7.0/refint/PokeModV2.0.dll
+/Users/erikmenchaca/My Drive (em9927@g.rit.edu)/01-RIT/Year-03/Spring-2022-23-2225/NMAD-180-K.Campbell/04-Projects/project-02-erikmenchaca-1/PokeModV2.0/obj/Debug/net7.0/PokeModV2.0.pdb
+/Users/erikmenchaca/My Drive (em9927@g.rit.edu)/01-RIT/Year-03/Spring-2022-23-2225/NMAD-180-K.Campbell/04-Projects/project-02-erikmenchaca-1/PokeModV2.0/obj/Debug/net7.0/PokeModV2.0.genruntimeconfig.cache
+/Users/erikmenchaca/My Drive (em9927@g.rit.edu)/01-RIT/Year-03/Spring-2022-23-2225/NMAD-180-K.Campbell/04-Projects/project-02-erikmenchaca-1/PokeModV2.0/obj/Debug/net7.0/ref/PokeModV2.0.dll
+C:\Users\em9927\Desktop\Repositories\NMAD-180-01-2225-Campbell\project-02-erikmenchaca-1-main\PokeModV2.0\bin\Debug\net7.0\PokeModV2.0.exe
+C:\Users\em9927\Desktop\Repositories\NMAD-180-01-2225-Campbell\project-02-erikmenchaca-1-main\PokeModV2.0\bin\Debug\net7.0\PokeModV2.0.deps.json
+C:\Users\em9927\Desktop\Repositories\NMAD-180-01-2225-Campbell\project-02-erikmenchaca-1-main\PokeModV2.0\bin\Debug\net7.0\PokeModV2.0.runtimeconfig.json
+C:\Users\em9927\Desktop\Repositories\NMAD-180-01-2225-Campbell\project-02-erikmenchaca-1-main\PokeModV2.0\bin\Debug\net7.0\PokeModV2.0.dll
+C:\Users\em9927\Desktop\Repositories\NMAD-180-01-2225-Campbell\project-02-erikmenchaca-1-main\PokeModV2.0\bin\Debug\net7.0\PokeModV2.0.pdb
+C:\Users\em9927\Desktop\Repositories\NMAD-180-01-2225-Campbell\project-02-erikmenchaca-1-main\PokeModV2.0\obj\Debug\net7.0\PokeModV2.0.csproj.AssemblyReference.cache
+C:\Users\em9927\Desktop\Repositories\NMAD-180-01-2225-Campbell\project-02-erikmenchaca-1-main\PokeModV2.0\obj\Debug\net7.0\PokeModV2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\em9927\Desktop\Repositories\NMAD-180-01-2225-Campbell\project-02-erikmenchaca-1-main\PokeModV2.0\obj\Debug\net7.0\PokeModV2.0.AssemblyInfoInputs.cache
+C:\Users\em9927\Desktop\Repositories\NMAD-180-01-2225-Campbell\project-02-erikmenchaca-1-main\PokeModV2.0\obj\Debug\net7.0\PokeModV2.0.AssemblyInfo.cs
+C:\Users\em9927\Desktop\Repositories\NMAD-180-01-2225-Campbell\project-02-erikmenchaca-1-main\PokeModV2.0\obj\Debug\net7.0\PokeModV2.0.csproj.CoreCompileInputs.cache
+C:\Users\em9927\Desktop\Repositories\NMAD-180-01-2225-Campbell\project-02-erikmenchaca-1-main\PokeModV2.0\obj\Debug\net7.0\PokeModV2.0.dll
+C:\Users\em9927\Desktop\Repositories\NMAD-180-01-2225-Campbell\project-02-erikmenchaca-1-main\PokeModV2.0\obj\Debug\net7.0\refint\PokeModV2.0.dll
+C:\Users\em9927\Desktop\Repositories\NMAD-180-01-2225-Campbell\project-02-erikmenchaca-1-main\PokeModV2.0\obj\Debug\net7.0\PokeModV2.0.pdb
+C:\Users\em9927\Desktop\Repositories\NMAD-180-01-2225-Campbell\project-02-erikmenchaca-1-main\PokeModV2.0\obj\Debug\net7.0\PokeModV2.0.genruntimeconfig.cache
+C:\Users\em9927\Desktop\Repositories\NMAD-180-01-2225-Campbell\project-02-erikmenchaca-1-main\PokeModV2.0\obj\Debug\net7.0\ref\PokeModV2.0.dll
